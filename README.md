@@ -54,6 +54,11 @@ Una app móvil que permite administrar estudiantes, profesores y evaluaciones, i
 
 [LinkedIn](https://www.linkedin.com/in/fedegst90) | [GitHub](https://github.com/fedegst90)
 
+![Kotlin](https://img.shields.io/badge/Kotlin-100000?style=for-the-badge&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=dark)
+
+
 ¡Gracias por visitar mi perfil! 🙌 ¡Espero que disfrutes mis proyectos y podamos conectarnos pronto! 😎
 
 
