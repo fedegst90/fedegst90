@@ -23,32 +23,32 @@ Mi objetivo es crear aplicaciones que sean funcionales y eficientes, ademas que 
 - **Tecnologías**: API REST, MySQL
 
 ---
-<!--
-## 🚀 Proyectos Destacados
 
+## 🚀 Proyectos Destacados
+<!--
 ### 1. **App de Geografía Interactiva 📍**
 Una aplicación educativa que integra mapas interactivos y contenido dinámico, diseñada para estudiantes de secundaria para el estudio de geografía.
-
-### 2. **Sistema de Gestión Escolar 📚**
+-->
+### 1. **Sistema de Gestión Escolar 📚**
 Una app móvil que permite administrar estudiantes, profesores y evaluaciones, integrando bases de datos y conectividad en tiempo real con un API REST.
 
 ---
--->
+
 ## 📚 Formación y Educación
 
 - **Diplomado en Ciencias Físicas** 🔬 — Universidad Nacional de Salta
 - **Licenciatura/Profesorado en Geografía** 🌍 — Centro de Estudios a Distancia de Salta N° 8129
 
 ---
-<!--
+
 ## 📈 Contribuciones
-
+<!--
 🔹 [Enlace al proyecto: App Geografía Interactiva](https://github.com/usuario/app-geografia-interactiva)
-
-🔹 [Enlace al proyecto: Sistema de Gestión Escolar](https://github.com/usuario/sistema-gestion-escolar)
+-->
+🔹 [Enlace al proyecto: Sistema de Gestión Escolar](https://github.com/fedegst90/gestion-clases-offline)
 
 ---
--->
+
 ## 📲 Sígueme en las redes sociales
 
 [LinkedIn](https://www.linkedin.com/in/fedegst90) | [GitHub](https://github.com/fedegst90)
