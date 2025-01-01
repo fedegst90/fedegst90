@@ -13,7 +13,6 @@ Mi objetivo es crear aplicaciones que sean funcionales y eficientes, ademas que 
 - **Patrones**: Clean Architecture, MVVM
 - **Herramientas**: Android Studio
 - **XML**: Diseño de interfaces con **Android XML Layouts**, vistas personalizadas, `ConstraintLayout`, `RecyclerView`, `ViewBinding`  
-- **Bases de datos**:
 - **Bases de datos**: MySQL, Room
 - **Conexiones de red**: Retrofit
 - **Gestión de dependencias**: Dagger-Hilt
