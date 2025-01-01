@@ -30,7 +30,9 @@ Mi objetivo es crear aplicaciones que sean funcionales y eficientes, ademas que 
 Una aplicación educativa que integra mapas interactivos y contenido dinámico, diseñada para estudiantes de secundaria para el estudio de geografía.
 -->
 ### 1. **Sistema de Gestión Escolar 📚**
-Una app móvil que permite administrar estudiantes, profesores y evaluaciones, integrando bases de datos y conectividad en tiempo real con un API REST.
+Una app móvil que permite administrar estudiantes, profesores y evaluaciones, integrando bases de datos y conectividad en tiempo real con **Firebase**.
+
+🔹 [Enlace al proyecto: Sistema de Gestión Escolar](https://github.com/fedegst90/gestion-clases-offline)
 
 ---
 
@@ -45,7 +47,6 @@ Una app móvil que permite administrar estudiantes, profesores y evaluaciones, i
 <!--
 🔹 [Enlace al proyecto: App Geografía Interactiva](https://github.com/usuario/app-geografia-interactiva)
 -->
-🔹 [Enlace al proyecto: Sistema de Gestión Escolar](https://github.com/fedegst90/gestion-clases-offline)
 
 ---
 
