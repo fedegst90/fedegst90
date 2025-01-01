@@ -52,7 +52,7 @@ Una app móvil que permite administrar estudiantes, profesores y evaluaciones, i
 -->
 ## 📲 Sígueme en las redes sociales
 
-[LinkedIn](https://www.linkedin.com/fedegst90) | [GitHub](https://github.com/fedegst90)
+[LinkedIn](https://www.linkedin.com/in/fedegst90) | [GitHub](https://github.com/fedegst90)
 
 ¡Gracias por visitar mi perfil! 🙌 ¡Espero que disfrutes mis proyectos y podamos conectarnos pronto! 😎
 
