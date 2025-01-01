@@ -40,11 +40,11 @@ Una app móvil que permite administrar estudiantes, profesores y evaluaciones, i
 
 - **Diplomado en Ciencias Físicas** 🔬 — Universidad Nacional de Salta
 - **Licenciatura/Profesorado en Geografía** 🌍 — Centro de Estudios a Distancia de Salta N° 8129
-
+<!--
 ---
 
 ## 📈 Contribuciones
-<!--
+
 🔹 [Enlace al proyecto: App Geografía Interactiva](https://github.com/usuario/app-geografia-interactiva)
 -->
 
